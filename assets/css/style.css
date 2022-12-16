@@ -1,0 +1,27 @@
+
+body{
+	background-color:black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	
+}
+#today{
+	    color:green;
+		font-size:24px;
+		}
+
+.Countdown {
+	font-size: 36px;
+	color:  red;
+	font-weight:700;
+	text-shadow: 2px 2px 0px green;
+	
+}
+
+.counter {
+	display: inline-block;
+	margin: 0 15px;
+	text-align: center;
+}
